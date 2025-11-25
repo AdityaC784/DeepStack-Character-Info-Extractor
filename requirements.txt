@@ -1,0 +1,8 @@
+langchain==1.1.0
+langchain-community==0.4.1
+langchain_mistralai==1.1.0
+langchain-chroma==1.0.0
+langchain-core==1.1.0
+langchain-text-splitters==1.0.0
+dotenv==0.9.9
+
