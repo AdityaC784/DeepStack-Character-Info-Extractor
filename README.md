@@ -18,8 +18,8 @@ This project is a small RAG-style pipeline that builds a Chroma vector store fro
 
 ### 1. Clone and enter the project
 ```bash
-git clone <your-repo-url>.git
-cd <your-repo-folder>
+git clone https://github.com/AdityaC784/DeepStack-Character-Info-Extractor.git
+cd DeepStack-Character-Info-Extractor
 ```
 
 ### 2. Create and activate a virtual environment
