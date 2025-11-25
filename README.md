@@ -154,13 +154,7 @@ Example output:
 }
 ```
 
-To save the output to a file while testing:
 
-```bash
-python -m cli get-character-info "Devlin" --db-path ./db > devlin.json
-```
-
----
 
 ## Notes & Troubleshooting
 
@@ -197,6 +191,11 @@ Change the Character Name in place of Devlin
 
 ```bash
 python -m cli get-character-info "Devlin" --db-path ./db
+
+```
+If we want to save json file
+```bash
+python -m cli get-character-info "Devlin" --db-path ./db 
 
 ```
 
