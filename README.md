@@ -41,7 +41,7 @@ Using a dedicated virtual environment keeps this project’s dependencies isolat
 All dependencies are listed in `requirements.txt`.
 
 ```bash
-pip install --upgrade pip
+
 pip install -r requirements.txt
 ```
 
